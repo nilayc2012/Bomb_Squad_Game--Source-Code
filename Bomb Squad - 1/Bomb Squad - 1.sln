@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb Squad - 1.Plugins", "Bomb Squad - 1.Plugins.csproj", "{9391B3F3-F853-FFF3-43C7-4228412BBC6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb Squad - 1", "Bomb Squad - 1.csproj", "{791E04ED-21A5-53A3-A801-4CD6466076E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bomb Squad - 1.Editor", "Bomb Squad - 1.Editor.csproj", "{53781968-24E0-6748-C033-638783B8590E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9391B3F3-F853-FFF3-43C7-4228412BBC6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9391B3F3-F853-FFF3-43C7-4228412BBC6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9391B3F3-F853-FFF3-43C7-4228412BBC6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9391B3F3-F853-FFF3-43C7-4228412BBC6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{791E04ED-21A5-53A3-A801-4CD6466076E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{791E04ED-21A5-53A3-A801-4CD6466076E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{791E04ED-21A5-53A3-A801-4CD6466076E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{791E04ED-21A5-53A3-A801-4CD6466076E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53781968-24E0-6748-C033-638783B8590E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53781968-24E0-6748-C033-638783B8590E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53781968-24E0-6748-C033-638783B8590E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53781968-24E0-6748-C033-638783B8590E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
